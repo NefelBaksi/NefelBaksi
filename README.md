@@ -6,5 +6,5 @@ Ich würde mich freuen, wenn Sie sich die Projekte ansehen, die Sie interessiere
 Vielen Dank im Voraus und ich wünsche Ihnen gute Arbeit !💻
 
 __Nefel Baksi__
-
-
+## Folge Mir!
+https://www.linkedin.com/in/nefel-bakşi-941438307/
