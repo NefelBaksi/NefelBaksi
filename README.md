@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nefel Baksi</h1>
 <h3 align="center">Frontend Developer | React Developer | Software Developer</h3>
 
-- 🔭 I’m currently working on **HTML,HTLM5,CSS,CSS3,JS**
+- 🔭 I’m currently working on **HTML,HTLM5,CSS,CSS3,Bootstrap,JS,**
 
-- 🌱 I’m currently learning **React, React Native, JavaScript and Java Technologies**
+- 🌱 I’m currently learning **React,Backend, React Native, JavaScript and Java Technologies**
 
 - 📫 How to reach me **nefel.baksi@gmail.com**
 
